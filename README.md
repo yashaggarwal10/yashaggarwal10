@@ -1,4 +1,4 @@
-# <pre>                   ✨HI, I am Yash Aggarwal.</pre>
+# <p align="center"> ✨HI, I am Yash Aggarwal. </p>
 Hello there! I'm a passionate developer constantly exploring new frontiers in Artificial Intelligence and Machine Learning. My repositories are a chronicle of this journey, showcasing projects designed to make a measurable real-world impact.
 
 
